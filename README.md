@@ -16,6 +16,7 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 - [X402blockchains](https://x402blockchains.com) — project discovery and payment exploration.
 - [x402scan](https://www.x402scan.com/) — ecosystem explorer.
 - [Agent402](https://agent402.tools/base) — Base seller discovery and activity views.
+- [FractalAI PQC Receipts](https://fractalai.net.co/.well-known/x402.json) — post-quantum (ML-DSA-65, NIST FIPS 204) signed receipts for x402 calls; the payer verifies them offline against a [published key directory](https://fractalai.net.co/.well-known/x402-receipt-keys) with epoch rotation.
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 
